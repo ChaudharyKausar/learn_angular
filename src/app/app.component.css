@@ -1,0 +1,28 @@
+a{
+    color:white;
+    font-size: 20px;
+    margin: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color:whitesmoke
+}
+#div1{
+    background-color: darkblue;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 10px;
+}
+ul li a{
+    color: black;
+    
+}
+ul li a:hover{
+color: blue;
+margin-right: 20px;
+}
+
+#gender{
+    margin-right:20px;
+  }
+  
